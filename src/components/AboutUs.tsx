@@ -6,7 +6,7 @@ export const AboutUs: React.FC = () => {
   const pillars = [
     {
       icon: Flame,
-      title: "Stone-Ground Kongu Masalas",
+      title: "Stone-Ground Traditional Masalas",
       description: "We roast whole spices daily—fennel, kalpasi, star anise, and Tellicherry pepper—using slow wood-fired roasting and stone grinding for uncompromised aroma.",
     },
     {
@@ -45,7 +45,7 @@ export const AboutUs: React.FC = () => {
           </h2>
           <div className="w-20 h-0.5 bg-gold-gradient mx-auto my-6" />
           <p className="text-zinc-300 text-base sm:text-lg leading-relaxed">
-            Born in the heart of Coimbatore, <strong className="text-[#fef08a] font-medium">ZORO CATERING</strong> was founded on a singular passion: to elevate South Indian and Kongu Nadu culinary traditions into a luxury dining experience.
+            Born in the heart of Coimbatore, <strong className="text-[#fef08a] font-medium">ZORO CATERING</strong> was founded on a singular passion: to elevate authentic South Indian and Tamil culinary traditions into a luxury dining experience.
           </p>
         </div>
 
@@ -55,10 +55,10 @@ export const AboutUs: React.FC = () => {
           <div className="lg:col-span-7 flex flex-col justify-between space-y-6">
             <div className="space-y-4 text-zinc-300 text-base leading-relaxed">
               <p>
-                In Coimbatore and the Kongu region, food is not merely served—it is an expression of deep honor, family pride, and heartfelt celebration. Whether it is an intimate family gathering or a 3,000-guest royal wedding reception, every dish we prepare reflects meticulous attention to taste, aroma, and visual elegance.
+                In Coimbatore and across Tamil Nadu, food is not merely served—it is an expression of deep honor, family pride, and heartfelt celebration. Whether it is an intimate family gathering or a 3,000-guest royal wedding reception, every dish we prepare reflects meticulous attention to taste, aroma, and visual elegance.
               </p>
               <p>
-                We specialize in perfecting the iconic favourites of our land: flaky, golden, layered <strong className="text-white font-medium">Parottas</strong> prepared live on searing tawas; piping hot, fragrant <strong className="text-white font-medium">Salnas</strong> simmered with secret coastal and Kongu spices; delicate whole-wheat <strong className="text-white font-medium">Chapattis</strong> brushed with ghee; and our signature <strong className="text-white font-medium">Coimbatore Kundi</strong> roast with caramelized country shallots.
+                We specialize in perfecting the iconic favourites of our land: flaky, golden, layered <strong className="text-white font-medium">Parottas</strong> prepared live on searing tawas; piping hot, fragrant <strong className="text-white font-medium">Salnas</strong> simmered with secret traditional spices; delicate whole-wheat <strong className="text-white font-medium">Chapattis</strong> brushed with ghee; and our signature <strong className="text-white font-medium">Coimbatore Kundi</strong> roast with caramelized country shallots.
               </p>
             </div>
 

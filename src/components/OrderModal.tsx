@@ -29,7 +29,7 @@ export const OrderModal: React.FC<OrderModalProps> = ({
     'Soft Phulka Chapatti',
     'Authentic Slow-Simmered Salna',
     'Coimbatore Traditional Kundi',
-    'Royal Kongu Mutton Biryani',
+    'Royal Seeraga Samba Mutton Biryani',
     'Traditional Banana Leaf Feast',
     'Live Tawa Counter Setup',
     'Tender Coconut Elaneer Payasam',

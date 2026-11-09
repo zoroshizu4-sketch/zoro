@@ -113,7 +113,7 @@ export const ContactSection: React.FC = () => {
                     Coimbatore, Tamil Nadu, India
                   </div>
                   <p className="text-xs text-zinc-400 mt-1 leading-relaxed">
-                    Primary service centers: RS Puram, Race Course, Peelamedu, Gandhipuram, Saravanampatti, Saibaba Colony, and surrounding Kongu region.
+                    Primary service centers: RS Puram, Race Course, Peelamedu, Gandhipuram, Saravanampatti, Saibaba Colony, and surrounding Tamil Nadu districts.
                   </p>
                 </div>
               </div>

@@ -90,7 +90,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenOrderModal }) => {
               </li>
               <li>
                 <a href="#menu" className="hover:text-[#d4af37] transition-colors">
-                  Kongu Coimbatore Kundi Roast
+                  Coimbatore Kundi Pepper Roast
                 </a>
               </li>
               <li>
@@ -137,7 +137,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenOrderModal }) => {
                 </a>
               </div>
               <div className="pt-2 text-[11px] text-zinc-500">
-                Service Radius: RS Puram, Race Course, Peelamedu, Gandhipuram, Saravanampatti, Saibaba Colony & Kongu Region.
+                Service Radius: RS Puram, Race Course, Peelamedu, Gandhipuram, Saravanampatti, Saibaba Colony & Surrounding Regions.
               </div>
             </div>
           </div>

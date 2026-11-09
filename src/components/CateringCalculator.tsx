@@ -18,16 +18,16 @@ export const CateringCalculator: React.FC = () => {
       included: ['Golden Parotta & Chapatti', 'Slow-Simmered Salna', 'Jeera / Ghee Rice', 'Elaneer Payasam'],
     },
     royal: {
-      name: 'Royal Kongu Feast',
+      name: 'Royal Banquet Feast',
       basePrice: 550,
       description: 'Live Parotta Tawa, Chapatti, Salna, Signature Coimbatore Kundi Pepper Roast, Seeraga Samba Biryani & Royal Dessert.',
-      included: ['Live Tawa Parotta Counter', 'Coimbatore Kundi Roast', 'Rich Spiced Salna', 'Kongu Mutton Biryani', 'Chilled Payasam'],
+      included: ['Live Tawa Parotta Counter', 'Coimbatore Kundi Roast', 'Rich Spiced Salna', 'Mutton Biryani', 'Chilled Payasam'],
     },
     maharaja: {
       name: 'Maharaja Grand Banquet',
       basePrice: 850,
       description: 'Full 24-dish Traditional Banana Leaf Feast or Grand Multi-Station Buffet, Mutton Biryani, Kundi, Parotta, Live Counters & Ice Cream.',
-      included: ['24-Item Traditional Elai Saapadu', 'Live Counter Trio (Parotta, Dosa, Chat)', 'Kongu Biryani & Kundi Roast', 'Silver-Service Table Staff'],
+      included: ['24-Item Traditional Elai Saapadu', 'Live Counter Trio (Parotta, Dosa, Chat)', 'Mutton Biryani & Kundi Roast', 'Silver-Service Table Staff'],
     },
   };
 
@@ -292,7 +292,7 @@ Please share your availability and official brochure.`;
                     ₹{totalEstimatedCost.toLocaleString('en-IN')}
                   </span>
                   <div className="text-[10px] text-zinc-400 font-normal">
-                    *Taxes & travel to Kongu venues as applicable
+                    *Taxes & travel to event venues as applicable
                   </div>
                 </div>
               </div>

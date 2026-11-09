@@ -32,7 +32,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenOrderModal }) => {
           <MapPin className="w-3.5 h-3.5" />
           <span>Coimbatore, Tamil Nadu</span>
           <span aria-hidden="true" className="text-zinc-600">·</span>
-          <span>Royal Kongu Catering</span>
+          <span>Premier Luxury Catering</span>
         </div>
 
         {/* Royal Crest Insignia Accent */}
@@ -60,7 +60,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenOrderModal }) => {
 
         {/* Subtitle */}
         <p className="text-base sm:text-lg md:text-xl text-zinc-300 max-w-2xl mx-auto font-light leading-relaxed mb-8">
-          Coimbatore&apos;s premier bespoke catering company. Renowned for authentic golden flaky Parottas, slow-simmered rich Salnas, traditional Kongu Kundi, and opulent wedding banquets.
+          Coimbatore&apos;s premier bespoke catering company. Renowned for authentic golden flaky Parottas, slow-simmered rich Salnas, traditional Coimbatore Kundi, and opulent wedding banquets.
         </p>
 
         {/* Primary Action Buttons */}
@@ -135,7 +135,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenOrderModal }) => {
               100% Authentic
             </span>
             <span className="text-xs text-zinc-400 mt-1 uppercase tracking-wider font-medium">
-              Kongu & Tamil Heritage
+              Traditional Tamil Heritage
             </span>
           </div>
 
